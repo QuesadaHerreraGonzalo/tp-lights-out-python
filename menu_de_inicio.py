@@ -8,7 +8,7 @@ def mostrarMenuDeInicio():
     elif (modoElegido == "p"):
         print ("-¡Modo Predeterminado seleccionado!-")
     elif (modoElegido == "x"):
-        print ("Saliendo...  :(")
+        print ("Adios!! ")
         exit()
     else:
         print("Por favor seleccione una de las teclas del menu o X para salir")
